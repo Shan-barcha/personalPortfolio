@@ -33,7 +33,7 @@ function Hero() {
           onPointerEnterCapture={undefined}
           onPointerLeaveCapture={undefined}
         >
-          I am Ali Shan
+          I am  Shan
         </Typography>
         
         {/* Subheading */}
