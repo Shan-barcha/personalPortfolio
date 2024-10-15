@@ -33,7 +33,7 @@ function Hero() {
           onPointerEnterCapture={undefined}
           onPointerLeaveCapture={undefined}
         >
-          I am Ali Shan Barcha Blockchain and WebDeveloper 
+          I am Ali Shan 
         </Typography>
         
         {/* Subheading */}
